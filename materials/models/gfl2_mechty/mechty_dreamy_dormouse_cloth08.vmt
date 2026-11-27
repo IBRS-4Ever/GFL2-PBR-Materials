@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_mechty/mechty_dreamy_dormouse_cloth08_d"
+	"$bumpmap" 		"models/gfl2_mechty/mechty_dreamy_dormouse_cloth08_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_mechty/mechty_dreamy_dormouse_cloth08_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

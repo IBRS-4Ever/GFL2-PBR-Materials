@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_commander/commander_male_nightfire_dawnforger_dorm_glass_d"
+	"$bumpmap" 		"models/gfl2_commander/commander_male_nightfire_dawnforger_dorm_glass_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_commander/commander_male_nightfire_dawnforger_dorm_glass_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}
