@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sharkry/sharkry_cloth02_update_d"
+	"$bumpmap" 		"models/gfl2_sharkry/sharkry_cloth02_update_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sharkry/sharkry_cloth02_update_mrao"
+	"$emissiontexture " "models/gfl2_sharkry/sharkry_cloth02_update_glow"
+}

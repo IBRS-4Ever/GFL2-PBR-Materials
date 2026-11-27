@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_soppo/soppo_redline_ranger_cloth01_trans_d"
+	"$bumpmap" 		"models/gfl2_soppo/soppo_redline_ranger_cloth01_trans_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_soppo/soppo_redline_ranger_cloth01_trans_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}

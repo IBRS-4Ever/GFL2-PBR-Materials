@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sakura/express_box_d"
+	"$bumpmap" 		"models/gfl2_sakura/express_box_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sakura/express_box_mrao"
+}

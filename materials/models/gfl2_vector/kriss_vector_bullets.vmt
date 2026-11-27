@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_vector/kriss_vector_d"
+	"$bumpmap" 		"models/gfl2_vector/kriss_vector_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_vector/kriss_vector_mrao"
+}

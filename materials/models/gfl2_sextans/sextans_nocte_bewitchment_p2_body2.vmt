@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sextans/sextans_nocte_bewitchment_p2_body2_d"
+	"$bumpmap" 		"models/gfl2_sextans/sextans_nocte_bewitchment_p2_body2_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sextans/sextans_nocte_bewitchment_p2_body2_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

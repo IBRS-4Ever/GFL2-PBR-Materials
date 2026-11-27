@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_springfield/springfield_stirring_mermaid_p2_cloth03_d"
+	"$bumpmap" 		"models/gfl2_springfield/springfield_stirring_mermaid_p2_cloth03_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_springfield/springfield_stirring_mermaid_p2_cloth03_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}

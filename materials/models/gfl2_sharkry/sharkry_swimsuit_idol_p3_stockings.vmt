@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sharkry/sharkry_swimsuit_idol_p3_stockings_d"
+	"$bumpmap" 		"models/gfl2_sharkry/sharkry_swimsuit_idol_p2_stockings_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sharkry/sharkry_swimsuit_idol_p3_stockings_mrao"
+}

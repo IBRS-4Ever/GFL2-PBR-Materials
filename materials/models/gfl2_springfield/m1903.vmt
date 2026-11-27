@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_springfield/m1903_d"
+	"$bumpmap" 		"models/gfl2_springfield/m1903_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_springfield/m1903_mrao"
+}

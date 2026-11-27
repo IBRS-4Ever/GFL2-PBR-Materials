@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_vepley/vepley_dorm_cloth_d"
+	"$bumpmap" 		"models/gfl2_shared/dorm_cloth_teen_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/dorm_cloth_teen_mrao"
+}

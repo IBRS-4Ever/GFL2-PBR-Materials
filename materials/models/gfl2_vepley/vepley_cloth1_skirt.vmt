@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_vepley/vepley_cloth01_update_d"
+	"$bumpmap" 		"models/gfl2_vepley/vepley_cloth01_update_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_vepley/vepley_cloth01_update_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+}

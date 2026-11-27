@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_tololo/tololo_cloth01_d"
+	"$bumpmap" 		"models/gfl2_tololo/tololo_cloth01_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_tololo/tololo_cloth01_mrao"
+	"$emissiontexture " "models/gfl2_tololo/tololo_cloth01_glow"
+}

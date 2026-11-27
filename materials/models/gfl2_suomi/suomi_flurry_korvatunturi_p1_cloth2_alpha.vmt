@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_suomi/suomi_flurry_korvatunturi_p1_cloth2_alpha_d"
+	"$bumpmap" 		"models/gfl2_suomi/suomi_flurry_korvatunturi_p1_cloth2_alpha_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_suomi/suomi_flurry_korvatunturi_p1_cloth2_alpha_mrao"
+	$nocull 0
+	$alphatest 1
+	$translucent 0
+}

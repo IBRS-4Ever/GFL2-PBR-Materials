@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_yoohee/yoohee_body_d"
+	"$bumpmap" 		"models/gfl2_yoohee/yoohee_body_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_yoohee/yoohee_body_mrao"
+}

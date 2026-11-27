@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sharkry/sharkry_swimsuit_idol_head_acce_d"
+	"$bumpmap" 		"models/gfl2_sharkry/sharkry_swimsuit_idol_head_acce_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sharkry/sharkry_swimsuit_idol_head_acce_mrao"
+	"$emissiontexture " "models/gfl2_sharkry/sharkry_swimsuit_idol_head_acce_glow"
+}

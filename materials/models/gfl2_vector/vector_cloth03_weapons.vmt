@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_vector/vector_cloth03_weapons_d"
+	"$bumpmap" 		"models/gfl2_vector/vector_cloth03_weapons_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_vector/vector_cloth03_weapons_mrao"
+}

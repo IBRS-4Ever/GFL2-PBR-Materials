@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sextans/sextans_nocte_bewitchment_jewellery_d"
+	"$bumpmap" 		"models/gfl2_sextans/sextans_nocte_bewitchment_jewellery_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sextans/sextans_nocte_bewitchment_jewellery_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+	"$color2" "[1.0 0.5 0.3]"
+}

@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_vector/vector_molotov_bunny_cloth02_stockings_d"
+	"$bumpmap" 		"models/gfl2_vector/vector_molotov_bunny_cloth02_stockings_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_vector/vector_molotov_bunny_cloth02_stockings_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 1
+}

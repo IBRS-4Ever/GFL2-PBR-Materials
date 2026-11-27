@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sextans/sextans_gun_right_d"
+	"$bumpmap" 		"models/gfl2_sextans/sextans_gun_right_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sextans/sextans_gun_right_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

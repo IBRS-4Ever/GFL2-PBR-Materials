@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_suomi/suomi_midsummer_pants_p3_d"
+	"$bumpmap" 		"models/gfl2_suomi/suomi_midsummer_pants_p3_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_suomi/suomi_midsummer_pants_p3_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

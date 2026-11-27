@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sakura/sakura_car_windows_d"
+	"$bumpmap" 		"models/gfl2_sakura/sakura_car_windows_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sakura/sakura_car_windows_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}

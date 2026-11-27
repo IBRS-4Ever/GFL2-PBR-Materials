@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_yoohee/yoohee_miracle_sh_stockings_1_d"
+	"$bumpmap" 		"models/gfl2_yoohee/yoohee_miracle_sh_stockings_1_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_yoohee/yoohee_miracle_sh_stockings_1_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

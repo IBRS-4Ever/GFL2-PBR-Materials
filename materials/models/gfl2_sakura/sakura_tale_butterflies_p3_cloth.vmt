@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sakura/sakura_tale_butterflies_p3_cloth_d"
+	"$bumpmap" 		"models/gfl2_sakura/sakura_tale_butterflies_p3_cloth_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sakura/sakura_tale_butterflies_p3_cloth_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

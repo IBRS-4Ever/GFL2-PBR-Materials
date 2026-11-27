@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_tololo/tololo_twilight_milky_way_cloth01_d"
+	"$bumpmap" 		"models/gfl2_tololo/tololo_twilight_milky_way_cloth01_n"
+	$model 1
+	"$nocull" "1"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	"$mraotexture" 	"models/gfl2_tololo/tololo_twilight_milky_way_cloth01_mrao"
+}

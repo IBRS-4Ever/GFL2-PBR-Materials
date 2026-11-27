@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sakura/type100_d"
+	"$bumpmap" 		"models/gfl2_sakura/type100_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sakura/type100_mrao"
+}

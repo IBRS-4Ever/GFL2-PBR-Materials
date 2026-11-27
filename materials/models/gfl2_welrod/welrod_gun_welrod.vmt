@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_welrod/welrod_gun_welrod_d"
+	"$bumpmap" 		"models/gfl2_welrod/welrod_gun_welrod_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_welrod/welrod_gun_welrod_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}
