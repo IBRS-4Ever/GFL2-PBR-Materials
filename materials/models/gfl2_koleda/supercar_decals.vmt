@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_koleda/supercar_decals_d"
+	"$bumpmap" 		"models/gfl2_koleda/supercar_decals_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_koleda/supercar_decals_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}

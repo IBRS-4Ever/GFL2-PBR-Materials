@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_jiangyu/qbz_97_d"
+	"$bumpmap" 		"models/gfl2_jiangyu/qbz_97_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_jiangyu/qbz_97_mrao"
+	"$color2" "[.6 .5 .3]"
+}

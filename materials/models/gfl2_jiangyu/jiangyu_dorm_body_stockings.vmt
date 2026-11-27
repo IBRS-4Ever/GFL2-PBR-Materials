@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_shared/stockings_white_d"
+	"$bumpmap" 		"models/gfl2_shared/stockings_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/stockings_mrao"
+}

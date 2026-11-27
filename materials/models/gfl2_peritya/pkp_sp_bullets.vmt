@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_peritya/pkp_sp_d"
+	"$bumpmap" 		"models/gfl2_peritya/pkp_sp_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_peritya/pkp_sp_mrao"
+}

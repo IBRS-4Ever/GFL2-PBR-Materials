@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_peritya/peritya_op_pechenyan_cloth02_ubertrans_d"
+	"$bumpmap" 		"models/gfl2_peritya/peritya_op_pechenyan_cloth02_ubertrans_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_peritya/peritya_op_pechenyan_cloth02_ubertrans_mrao"
+	$translucent 1
+}

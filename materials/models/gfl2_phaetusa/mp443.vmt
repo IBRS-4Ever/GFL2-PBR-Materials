@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_shared/weapons/mp443/mp443_d"
+	"$bumpmap" 		"models/gfl2_shared/weapons/mp443/mp443_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/weapons/mp443/mp443_mrao"
+}

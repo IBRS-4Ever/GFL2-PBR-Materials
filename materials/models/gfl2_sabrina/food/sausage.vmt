@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sabrina/food/sausage_d"
+	"$bumpmap" 		"models/gfl2_sabrina/food/sausage_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sabrina/food/sausage_mrao"
+	$nocull 0
+}

@@ -1,0 +1,9 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_koleda/koleda_cloth05_d"
+	"$bumpmap" 		"models/gfl2_koleda/koleda_cloth05_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_koleda/koleda_cloth05_mrao"
+	$nocull 1
+	$alphatest 0
+}

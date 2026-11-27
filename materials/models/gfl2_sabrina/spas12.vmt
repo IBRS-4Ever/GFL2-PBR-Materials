@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sabrina/spas12_d"
+	"$bumpmap" 		"models/gfl2_sabrina/spas12_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sabrina/spas12_mrao"
+}

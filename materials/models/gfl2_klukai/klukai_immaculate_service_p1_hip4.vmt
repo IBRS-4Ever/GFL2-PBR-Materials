@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_klukai/klukai_immaculate_service_p1_hip4_d"
+	"$bumpmap" 		"models/gfl2_klukai/klukai_immaculate_service_p1_hip4_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_klukai/klukai_immaculate_service_p1_hip4_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+}

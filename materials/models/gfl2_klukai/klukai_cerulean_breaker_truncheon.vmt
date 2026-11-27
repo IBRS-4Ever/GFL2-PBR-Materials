@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_klukai/klukai_cerulean_breaker_truncheon_d"
+	"$bumpmap" 		"models/gfl2_klukai/klukai_cerulean_breaker_truncheon_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_klukai/klukai_cerulean_breaker_truncheon_mrao"
+	"$emissiontexture" 	"models/gfl2_klukai/klukai_cerulean_breaker_truncheon_glow"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_klukai/klukai_indigo_oath_cloth01_trans_d"
+	"$bumpmap" 		"models/gfl2_klukai/klukai_indigo_oath_cloth01_trans_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}

@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_qiuhua/qiuhua_autumns_blazing_bunny_body_skin_d"
+	"$bumpmap" 		"models/gfl2_qiuhua/qiuhua_autumns_blazing_bunny_body_skin_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_qiuhua/qiuhua_autumns_blazing_bunny_body_skin_mrao"
+}

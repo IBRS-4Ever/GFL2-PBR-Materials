@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_klukai/klukai_astral_luminous_p2_head_d"
+	"$bumpmap" 		"models/gfl2_klukai/klukai_astral_luminous_p2_head_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_klukai/klukai_astral_luminous_p2_head_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}

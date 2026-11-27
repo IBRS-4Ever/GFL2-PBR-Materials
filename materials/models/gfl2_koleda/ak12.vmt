@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_voymastina/ak15_d"
+	"$bumpmap" 		"models/gfl2_voymastina/ak15_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_voymastina/ak15_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

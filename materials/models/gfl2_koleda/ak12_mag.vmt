@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_koleda/ak12_mag_d"
+	"$bumpmap" 		"models/gfl2_koleda/ak12_mag_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_koleda/ak12_mag_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

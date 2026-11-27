@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_koleda/koleda_age_of_spooms_p1_coat_d"
+	"$bumpmap" 		"models/gfl2_koleda/koleda_age_of_spooms_p1_coat_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_koleda/koleda_age_of_spooms_p1_coat_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+}

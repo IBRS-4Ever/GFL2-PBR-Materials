@@ -1,0 +1,12 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_klukai/klukai_speed_star_cloth02_d"
+	"$bumpmap" 		"models/gfl2_shared/normal"
+	$model 1
+	"$mraotexture" 	"models/gfl2_klukai/klukai_speed_star_cloth02_mrao"
+	$nocull 0
+	$alphatest 1
+	$translucent 0
+	"$allowalphatocoverage" 1
+	"$halflambert" "1"
+}

@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_jiangyu/jiangyu_raindrop_p1_cloth2_trans_d"
+	"$bumpmap" 		"models/gfl2_jiangyu/jiangyu_raindrop_p1_cloth2_trans_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_jiangyu/jiangyu_raindrop_p1_cloth2_trans_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 1
+}

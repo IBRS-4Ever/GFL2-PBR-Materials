@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_kuro/kuro_cocktail_observer_zuanshi_d"
+	"$bumpmap" 		"models/gfl2_kuro/kuro_cocktail_observer_zuanshi_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_kuro/kuro_cocktail_observer_zuanshi_mrao"
+	$nocull 0
+	$additive 1
+	$translucent 0
+}

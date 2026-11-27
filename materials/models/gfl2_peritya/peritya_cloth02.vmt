@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_peritya/peritya_cloth02_d"
+	"$bumpmap" 		"models/gfl2_peritya/peritya_cloth02_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_peritya/peritya_cloth02_mrao"
+	"$emissiontexture" "models/gfl2_peritya/peritya_cloth02_glow"
+}

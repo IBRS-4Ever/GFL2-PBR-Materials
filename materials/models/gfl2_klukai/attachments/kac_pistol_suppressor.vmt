@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_klukai/attachments/kac_pistol_suppressor_d"
+	"$bumpmap" 		"models/gfl2_klukai/attachments/kac_pistol_suppressor_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_klukai/attachments/kac_pistol_suppressor_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

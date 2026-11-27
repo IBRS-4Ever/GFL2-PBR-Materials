@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_klukai/glock17_cerulean_breaker_d"
+	"$bumpmap" 		"models/gfl2_klukai/glock17_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_klukai/glock17_cerulean_breaker_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

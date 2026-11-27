@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_ksenia/gold_bar_d"
+	"$bumpmap" 		"models/gfl2_ksenia/gold_bar_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_ksenia/gold_bar_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

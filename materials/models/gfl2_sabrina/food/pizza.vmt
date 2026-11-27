@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_sabrina/food/pizza_d"
+	"$bumpmap" 		"models/gfl2_sabrina/food/pizza_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_sabrina/food/pizza_mrao"
+	$nocull 0
+}

@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_qiuhua/qiuhua_hair_d"
+	"$bumpmap" 		"models/gfl2_shared/normal"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

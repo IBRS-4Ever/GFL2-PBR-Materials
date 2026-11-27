@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_qiuhua/qiuhua_compassion_care_p1_body_d"
+	"$bumpmap" 		"models/gfl2_qiuhua/qiuhua_compassion_care_p1_body_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_qiuhua/qiuhua_compassion_care_p1_body_mrao"
+	"$nocull" "1"
+}

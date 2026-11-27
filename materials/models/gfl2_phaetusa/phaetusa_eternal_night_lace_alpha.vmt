@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_phaetusa/phaetusa_eternal_night_lace_d"
+	"$bumpmap" 		"models/gfl2_phaetusa/phaetusa_eternal_night_lace_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_phaetusa/phaetusa_eternal_night_lace_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}
