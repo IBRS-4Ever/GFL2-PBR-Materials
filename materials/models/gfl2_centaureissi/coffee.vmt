@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_centaureissi/coffee_d"
+	"$bumpmap" 		"models/gfl2_centaureissi/coffee_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_centaureissi/coffee_mrao"
+}

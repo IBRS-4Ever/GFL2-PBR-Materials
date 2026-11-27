@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_dusevnyj/dusevnyj_tomorrows_savior_p1_hip1_d"
+	"$bumpmap" 		"models/gfl2_dusevnyj/dusevnyj_tomorrows_savior_p1_hip1_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_dusevnyj/dusevnyj_tomorrows_savior_p1_hip1_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+}

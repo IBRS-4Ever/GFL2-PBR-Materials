@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_destroyer/destroyer_body_skin_grey_d"
+	"$bumpmap" 		"models/gfl2_shared/a_body_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/a_body_mrao"
+}

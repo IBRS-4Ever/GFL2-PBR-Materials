@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_andoris/andoris_midnight_whispers_diamond_d"
+	"$bumpmap" 		"models/gfl2_andoris/andoris_midnight_whispers_diamond_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_andoris/andoris_midnight_whispers_diamond_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

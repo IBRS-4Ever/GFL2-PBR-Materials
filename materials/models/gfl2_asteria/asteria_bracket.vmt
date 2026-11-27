@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_asteria/asteria_bracket_d"
+	"$bumpmap" 		"models/gfl2_asteria/asteria_bracket_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_asteria/asteria_bracket_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_balthilde/jeep_pickup_glass_d"
+	"$bumpmap" 		"models/gfl2_balthilde/jeep_pickup_glass_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_balthilde/jeep_pickup_glass_mrao"
+	//"$additive" "1"
+}

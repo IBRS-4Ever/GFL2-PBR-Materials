@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_groza/groza_tactical_d"
+	"$bumpmap" 		"models/gfl2_groza/groza_tactical_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_groza/groza_tactical_mrao"
+	$nocull 0
+}

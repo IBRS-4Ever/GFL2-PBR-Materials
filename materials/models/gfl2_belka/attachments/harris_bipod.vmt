@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_shared/attachments/harris_bipod_d"
+	"$bumpmap" 		"models/gfl2_shared/attachments/harris_bipod_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/attachments/harris_bipod_mrao"
+}

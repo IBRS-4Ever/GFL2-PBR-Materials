@@ -1,0 +1,9 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_daiyan/daiyan_exquisite_jade_cloth02_d"
+	"$bumpmap" 		"models/gfl2_daiyan/daiyan_exquisite_jade_cloth02_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_daiyan/daiyan_exquisite_jade_cloth02_mrao"
+	$nocull 0
+	"$translucent" "1"
+}

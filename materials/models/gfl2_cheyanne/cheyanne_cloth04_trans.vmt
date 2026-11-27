@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_cheyanne/cheyanne_cloth04_trans_d"
+	"$bumpmap" 		"models/gfl2_cheyanne/cheyanne_cloth04_trans_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_cheyanne/cheyanne_cloth04_trans_mrao"
+	"$translucent" "1"
+}

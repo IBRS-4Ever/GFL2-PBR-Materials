@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_asteria/asteria_ad_astra_p2_head_glass_d"
+	"$bumpmap" 		"models/gfl2_asteria/asteria_ad_astra_p2_head_glass_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_asteria/asteria_ad_astra_p2_head_glass_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+	"$additive" "1"
+}

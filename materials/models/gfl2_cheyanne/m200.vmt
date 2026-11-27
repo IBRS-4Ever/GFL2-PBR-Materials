@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_cheyanne/m200_d"
+	"$bumpmap" 		"models/gfl2_cheyanne/m200_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_cheyanne/m200_mrao"
+}

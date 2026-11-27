@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_faelynn/faelynn_cloth04_d"
+	"$bumpmap" 		"models/gfl2_faelynn/faelynn_cloth04_n"
+	$emissiontexture	"models/gfl2_faelynn/faelynn_cloth04_d"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

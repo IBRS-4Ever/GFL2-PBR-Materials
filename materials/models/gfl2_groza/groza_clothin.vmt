@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_groza/groza_clothin_d"
+	"$bumpmap" 		"models/gfl2_groza/groza_clothin_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_groza/groza_clothin_mrao"
+}

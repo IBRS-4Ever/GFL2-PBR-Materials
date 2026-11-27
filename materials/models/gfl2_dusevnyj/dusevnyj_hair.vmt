@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_dusevnyj/dusevnyj_hair_d"
+	"$bumpmap" 		"models/gfl2_shared/normal"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/mrao"
+}

@@ -1,0 +1,7 @@
+PBR
+{
+	$basetexture "models/gfl2_florence/florence_marvelous_yp_body_skin_d"
+	$normaltexture "models/gfl2_florence/florence_marvelous_yp_body_skin_n"
+	$mraotexture "models/gfl2_florence/florence_marvelous_yp_body_skin_mrao"
+	$model 1
+}

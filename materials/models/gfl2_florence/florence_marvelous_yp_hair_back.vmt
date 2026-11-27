@@ -1,0 +1,7 @@
+PBR
+{
+	$basetexture "models/gfl2_florence/florence_marvelous_yp_hair_d"
+	$normaltexture "models/gfl2_shared/normal"
+	$mraotexture "models/gfl2_shared/mrao"
+	$model 1
+}

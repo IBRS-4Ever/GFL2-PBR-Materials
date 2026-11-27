@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_belka/belka_cloth02_d"
+	"$bumpmap" 		"models/gfl2_belka/belka_cloth02_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_belka/belka_cloth02_mrao"
+	$nocull 0
+}

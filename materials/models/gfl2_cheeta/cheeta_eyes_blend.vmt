@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_cheeta/cheeta_eyes_blend"
+	"$bumpmap" 		"models/gfl2_shared/normal"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/mrao"
+	
+	$translucent 1
+	$nocull 1
+}

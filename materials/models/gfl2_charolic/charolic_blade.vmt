@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_charolic/charolic_blade_d"
+	"$bumpmap" 		"models/gfl2_charolic/charolic_blade_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_charolic/charolic_blade_mrao"
+	"$emissiontexture" "models/gfl2_charolic/charolic_blade_glow"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

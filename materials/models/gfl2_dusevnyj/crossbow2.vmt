@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_dusevnyj/crossbow2_d"
+	"$bumpmap" 		"models/gfl2_dusevnyj/crossbow2_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_dusevnyj/crossbow2_mrao"
+	$nocull 0
+}

@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_dusevnyj/dusevnyj_tomorrows_savior_weapon_d"
+	"$bumpmap" 		"models/gfl2_dusevnyj/dusevnyj_tomorrows_savior_weapon_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_dusevnyj/dusevnyj_tomorrows_savior_weapon_mrao"
+	$emissiontexture "models/gfl2_dusevnyj/dusevnyj_tomorrows_savior_weapon_glow"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

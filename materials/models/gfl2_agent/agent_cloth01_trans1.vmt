@@ -1,0 +1,9 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_agent/agent_cloth01_d"
+	"$bumpmap" 		"models/gfl2_agent/agent_cloth01_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_agent/agent_cloth01_mrao"
+	"$translucent" "1"
+	"$nocull" "1"
+}

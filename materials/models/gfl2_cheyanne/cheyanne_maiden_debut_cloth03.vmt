@@ -1,0 +1,15 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_cheyanne/cheyanne_maiden_debut_cloth03_d"
+	"$bumpmap" 		"models/gfl2_cheyanne/cheyanne_maiden_debut_cloth03_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_cheyanne/cheyanne_maiden_debut_cloth03_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+	
+	"$detail"							"models/gfl2_cheyanne/cheyanne_maiden_debut_cloth03_gitter"
+	"$detailscale"					"1"
+	"$detailblendfactor"		"1"
+	"$detailblendmode"		"0"
+}

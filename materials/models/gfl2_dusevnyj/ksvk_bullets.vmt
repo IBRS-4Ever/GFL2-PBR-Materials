@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_dusevnyj/ksvk_d"
+	"$bumpmap" 		"models/gfl2_dusevnyj/ksvk_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_dusevnyj/ksvk_mrao"
+}

@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_agent/agent_body_skin_d"
+	"$bumpmap" 		"models/gfl2_shared/a_body_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/a_body_mrao"
+}

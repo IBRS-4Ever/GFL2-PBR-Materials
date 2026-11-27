@@ -1,0 +1,9 @@
+PBR
+{
+	$basetexture "models/gfl2_florence/florence_eyes_blend"
+	$normaltexture "models/gfl2_shared/normal"
+	$mraotexture "models/gfl2_shared/mrao"
+	$model 1
+	"$translucent" "1"
+	"$nocull" "1"
+}

@@ -1,0 +1,17 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_helen/helen_starlit_waltz_jewelry_d"
+	"$bumpmap" 		"models/gfl2_helen/helen_starlit_waltz_jewelry_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_helen/helen_starlit_waltz_jewelry_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+	
+	"$detail"							"models/gfl2_helen/helen_starlit_waltz_jewelry_gitter"
+	"$detailscale"					"2"
+	"$detailblendfactor"		"1"
+	"$detailblendmode"		"0"
+	
+	"$color2" "[0.2 0.3 2.0]"
+}

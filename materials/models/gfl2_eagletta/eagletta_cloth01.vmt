@@ -1,0 +1,12 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_eagletta/eagletta_cloth01_d"
+	"$bumpmap" 		"models/gfl2_eagletta/eagletta_cloth01_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_eagletta/eagletta_cloth01_mrao"
+	$nocull 1
+	$alphatest 1
+	$translucent 0
+	"$allowalphatocoverage" 1
+	"$halflambert" "1"
+}

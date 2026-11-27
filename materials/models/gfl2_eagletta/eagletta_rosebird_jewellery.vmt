@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_eagletta/eagletta_jewellry_d"
+	"$bumpmap" 		"models/gfl2_eagletta/eagletta_jewellry_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_eagletta/eagletta_jewellry_mrao"
+	"$color2" "[1.5 1.5 0.3]"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

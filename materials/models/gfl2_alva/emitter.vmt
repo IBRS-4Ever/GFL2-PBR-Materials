@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_alva/emitter_d"
+	"$bumpmap" 		"models/gfl2_alva/emitter_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_alva/emitter_mrao"
+}

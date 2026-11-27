@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_asteria/asteria_ad_astra_p3_cloth01_d"
+	"$bumpmap" 		"models/gfl2_asteria/asteria_ad_astra_p3_cloth01_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_asteria/asteria_ad_astra_p3_cloth01_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+}

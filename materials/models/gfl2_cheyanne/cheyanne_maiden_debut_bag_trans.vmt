@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_cheyanne/cheyanne_maiden_debut_bag_d"
+	"$bumpmap" 		"models/gfl2_cheyanne/cheyanne_maiden_debut_bag_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_cheyanne/cheyanne_maiden_debut_bag_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}

@@ -1,0 +1,9 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_florence/florence_cloth02_d"
+	"$bumpmap" 		"models/gfl2_florence/florence_cloth02_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_florence/florence_cloth02_mrao"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+}

@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_andoris/g36k_d"
+	"$bumpmap" 		"models/gfl2_andoris/g36k_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_andoris/g36k_mrao"
+}

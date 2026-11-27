@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_balthilde/balthilde_goggles_d"
+	"$bumpmap" 		"models/gfl2_balthilde/balthilde_goggles_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_balthilde/balthilde_goggles_mrao"
+}

@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_colphne/taurus_curve_d"
+	"$bumpmap" 		"models/gfl2_colphne/taurus_curve_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_colphne/taurus_curve_mrao"
+	$nocull 0
+}

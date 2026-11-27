@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_eagletta/eagletta_cloth08_d"
+	"$bumpmap" 		"models/gfl2_shared/normal"
+	$model 1
+	"$mraotexture" 	"models/gfl2_eagletta/eagletta_rosebird_cloth09_glass_mrao"
+	$nocull 0
+	$additive 1
+	$translucent 0
+}

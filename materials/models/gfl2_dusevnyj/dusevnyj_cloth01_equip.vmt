@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_dusevnyj/dusevnyj_cloth01_equip_d"
+	"$bumpmap" 		"models/gfl2_dusevnyj/dusevnyj_cloth01_equip_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_dusevnyj/dusevnyj_cloth01_equip_mrao"
+	$nocull 1
+}

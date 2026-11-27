@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_colphne_doppelgaenger/colphne_dopp_blade_d"
+	"$bumpmap" 		"models/gfl2_colphne_doppelgaenger/colphne_dopp_blade_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_colphne_doppelgaenger/colphne_dopp_blade_mrao"
+}

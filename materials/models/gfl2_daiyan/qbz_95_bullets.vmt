@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_daiyan/qbz_95_d"
+	"$bumpmap" 		"models/gfl2_daiyan/qbz_95_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_daiyan/qbz_95_mrao"
+}

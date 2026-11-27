@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_cecilia/cecilia_trans1_d"
+	"$bumpmap" 		"models/gfl2_cecilia/cecilia_trans1_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_cecilia/cecilia_trans1_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 1
+}

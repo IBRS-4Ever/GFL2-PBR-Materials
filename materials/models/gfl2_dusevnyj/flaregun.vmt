@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_dusevnyj/flaregun_d"
+	"$bumpmap" 		"models/gfl2_dusevnyj/flaregun_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_dusevnyj/flaregun_mrao"
+	$nocull 0
+}

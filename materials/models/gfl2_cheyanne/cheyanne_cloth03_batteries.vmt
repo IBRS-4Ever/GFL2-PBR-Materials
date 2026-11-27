@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_cheyanne/cheyanne_cloth03_batteries_d"
+	"$bumpmap" 		"models/gfl2_cheyanne/cheyanne_cloth03_batteries_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_cheyanne/cheyanne_cloth03_batteries_mrao"
+}

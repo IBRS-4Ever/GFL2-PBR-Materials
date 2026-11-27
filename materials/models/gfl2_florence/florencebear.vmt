@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_florence/florencebear_d"
+	"$bumpmap" 		"models/gfl2_florence/florencebear_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_florence/florencebear_mrao"
+}

@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_centaureissi/cake_d"
+	"$bumpmap" 		"models/gfl2_centaureissi/cake_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_centaureissi/cake_mrao"
+}

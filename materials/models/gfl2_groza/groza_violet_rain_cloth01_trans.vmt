@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_groza/groza_violet_rain_cloth01_d"
+	"$bumpmap" 		"models/gfl2_groza/groza_violet_rain_cloth01_n"
+	"$translucent" "1"
+	$model 1
+	"$mraotexture" 	"models/gfl2_groza/groza_violet_rain_cloth01_mrao"
+}

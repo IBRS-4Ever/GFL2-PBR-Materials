@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_commander/commander_female_body_skin_d"
+	"$bumpmap" 		"models/gfl2_commander/commander_female_body_skin_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_commander/commander_female_summer_body_skin_mrao"
+}

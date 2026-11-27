@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_alva/an94_d"
+	"$bumpmap" 		"models/gfl2_alva/an94_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_alva/an94_mrao"
+}

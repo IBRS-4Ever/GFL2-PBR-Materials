@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_colphne_doppelgaenger/colphne_dopp_cloth02_d"
+	"$bumpmap" 		"models/gfl2_colphne_doppelgaenger/colphne_dopp_cloth02_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_colphne_doppelgaenger/colphne_dopp_cloth02_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+}

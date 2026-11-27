@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_florence/florence_alluring_larkspur_jewel_d"
+	"$bumpmap" 		"models/gfl2_florence/florence_alluring_larkspur_jewel_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_florence/florence_alluring_larkspur_jewel_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+	"$color2" "[3.0 0.3 0.3]"
+}

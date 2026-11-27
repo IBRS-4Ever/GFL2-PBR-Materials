@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_cheyanne/camp_d"
+	"$bumpmap" 		"models/gfl2_cheyanne/camp_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_cheyanne/camp_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+}

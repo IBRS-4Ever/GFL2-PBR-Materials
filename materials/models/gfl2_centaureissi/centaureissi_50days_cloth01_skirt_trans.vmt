@@ -1,0 +1,9 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_centaureissi/centaureissi_50days_cloth01_d"
+	"$bumpmap" 		"models/gfl2_centaureissi/centaureissi_50days_cloth01_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_centaureissi/centaureissi_50days_cloth01_mrao"
+	"$nocull" "1"
+	"$translucent" 1
+}

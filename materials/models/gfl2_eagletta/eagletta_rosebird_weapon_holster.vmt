@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_eagletta/eagletta_rosebird_weapon_holster_d"
+	"$bumpmap" 		"models/gfl2_eagletta/eagletta_rosebird_weapon_holster_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_eagletta/eagletta_rosebird_weapon_holster_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

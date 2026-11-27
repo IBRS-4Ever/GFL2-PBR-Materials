@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_basti/basti_peach_soda_p1_cloth01_d"
+	"$bumpmap" 		"models/gfl2_basti/basti_peach_soda_p1_cloth01_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_basti/basti_peach_soda_p1_cloth01_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_helen/helen_starlit_waltz_p1_hand_d"
+	"$bumpmap" 		"models/gfl2_helen/helen_starlit_waltz_p1_hand_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_helen/helen_starlit_waltz_p1_hand_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

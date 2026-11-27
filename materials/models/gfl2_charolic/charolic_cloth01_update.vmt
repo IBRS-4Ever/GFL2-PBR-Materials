@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_charolic/charolic_cloth01_update_d"
+	"$bumpmap" 		"models/gfl2_charolic/charolic_cloth01_n_update"
+	$model 1
+	"$mraotexture" 	"models/gfl2_charolic/charolic_cloth01_update_mrao"
+	"$emissiontexture" "models/gfl2_charolic/charolic_cloth01_update_glow"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}
