@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_nemesis/nemesis_wandering_star_trail_cloth02_d"
+	"$bumpmap" 		"models/gfl2_nemesis/nemesis_wandering_star_trail_cloth02_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_nemesis/nemesis_wandering_star_trail_cloth02_mrao"
+	$nocull 0
+}

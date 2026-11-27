@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_ots14/ots14_dlr_cloth03_d"
+	"$bumpmap" 		"models/gfl2_ots14/ots14_dlr_cloth03_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_ots14/ots14_dlr_cloth03_mrao"
+	$nocull 0
+	$alphatest 0
+	$additive 1
+}

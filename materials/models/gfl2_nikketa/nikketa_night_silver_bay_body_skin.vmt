@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_nikketa/nikketa_night_silver_bay_body_skin_d"
+	"$bumpmap" 		"models/gfl2_shared/a_body_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/a_body_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_liushih/general_liu_rifle_d"
+	"$bumpmap" 		"models/gfl2_liushih/general_liu_rifle_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_liushih/general_liu_rifle_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

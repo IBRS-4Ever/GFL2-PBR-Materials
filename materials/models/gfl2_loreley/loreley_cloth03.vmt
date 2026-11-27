@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_loreley/loreley_cloth03_d"
+	"$bumpmap" 		"models/gfl2_loreley/loreley_cloth03_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_loreley/loreley_cloth03_mrao"
+	"$nocull" "1"
+}

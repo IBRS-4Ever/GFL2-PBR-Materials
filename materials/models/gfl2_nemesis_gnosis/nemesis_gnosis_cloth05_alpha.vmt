@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_nemesis_gnosis/nemesis_gnosis_cloth05_alpha_d"
+	"$bumpmap" 		"models/gfl2_nemesis_gnosis/nemesis_gnosis_cloth05_alpha_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_nemesis_gnosis/nemesis_gnosis_cloth05_alpha_mrao"
+	$nocull 1
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	"$halflambert" "1"
+}

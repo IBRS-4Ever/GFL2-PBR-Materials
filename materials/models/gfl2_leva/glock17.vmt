@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_leva/glock17_d"
+	"$bumpmap" 		"models/gfl2_leva/glock17_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_leva/glock17_mrao"
+}

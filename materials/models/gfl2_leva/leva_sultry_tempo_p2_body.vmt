@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_leva/leva_sultry_tempo_p2_body_d"
+	"$bumpmap" 		"models/gfl2_leva/leva_sultry_tempo_p2_body_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_leva/leva_sultry_tempo_p2_body_mrao"
+	$nocull 0
+	$alphatest 1
+	$translucent 0
+}

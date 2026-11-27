@@ -1,0 +1,7 @@
+PBR
+{
+	$basetexture "models/gfl2_lind/lind_the_sun_never_rises_cloth02_d"
+	$model 1
+	$mraotexture "models/gfl2_lind/lind_the_sun_never_rises_cloth02_mrao"
+	$bumpmap "models/gfl2_lind/lind_the_sun_never_rises_cloth02_n"
+}

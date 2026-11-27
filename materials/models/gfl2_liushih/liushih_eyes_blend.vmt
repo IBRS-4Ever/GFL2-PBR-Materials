@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_liushih/liushih_eyes_blend"
+	"$bumpmap" 		"models/gfl2_shared/normal"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 1
+}

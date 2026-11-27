@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_mechty/bed_d"
+	"$bumpmap" 		"models/gfl2_mechty/bed_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_mechty/bed_mrao"
+	$nocull 0
+}

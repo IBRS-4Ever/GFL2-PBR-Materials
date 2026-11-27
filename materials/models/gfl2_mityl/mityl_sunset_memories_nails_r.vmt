@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_mityl/mityl_sunset_memories_nails_r_d"
+	"$bumpmap" 		"models/gfl2_mityl/mityl_sunset_memories_nails_r_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_mityl/mityl_sunset_memories_nails_mrao"
+	$nocull 0
+	$alphatest 0
+	$translucent 0
+}

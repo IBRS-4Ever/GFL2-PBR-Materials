@@ -1,0 +1,11 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_leva/leva_cloth02_d"
+	"$bumpmap" 		"models/gfl2_leva/leva_cloth02_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_leva/leva_cloth02_mrao"
+	$alphatest 1
+	"$allowalphatocoverage" 1
+	"$halflambert" "1"
+	$nocull 1
+}

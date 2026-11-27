@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_nemesis/om50_nemesis_d"
+	"$bumpmap" 		"models/gfl2_nemesis/om50_nemesis_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_nemesis/om50_nemesis_mrao"
+	$nocull 0
+}

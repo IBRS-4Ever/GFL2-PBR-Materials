@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_lenna/lenna_plush_d"
+	"$bumpmap" 		"models/gfl2_lenna/lenna_plush_n"
+	$model 1
+	$nocull 1
+	"$mraotexture" 	"models/gfl2_shared/mrao"
+}

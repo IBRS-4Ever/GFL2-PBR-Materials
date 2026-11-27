@@ -1,0 +1,12 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_lind/lind_cloth02_logo_trans_d"
+	"$bumpmap" 		"models/gfl2_lind/lind_cloth02_logo_trans_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_lind/lind_cloth02_logo_trans_mrao"
+	
+	$alphatest 1
+	$nocull 1
+
+	$allowalphatocoverage 1
+}

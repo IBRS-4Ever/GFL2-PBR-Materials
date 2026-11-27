@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_lenna/stun_baton_d"
+	"$bumpmap" 		"models/gfl2_lenna/stun_baton_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_lenna/stun_baton_mrao"
+}

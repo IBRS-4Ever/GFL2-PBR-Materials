@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_liushih/liushih_dorm_cloth01_d"
+	"$bumpmap" 		"models/gfl2_shared/dorm_cloth_average_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_shared/dorm_cloth_average_mrao"
+}

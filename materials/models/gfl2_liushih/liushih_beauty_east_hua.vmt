@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_liushih/liushih_beauty_east_hua_d"
+	"$bumpmap" 		"models/gfl2_liushih/liushih_beauty_east_hua_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_liushih/liushih_beauty_east_hua_mrao"
+	$nocull 1
+	$alphatest 1
+	$translucent 0
+}

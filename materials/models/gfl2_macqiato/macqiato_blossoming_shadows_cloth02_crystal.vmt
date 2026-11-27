@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_macqiato/macqiato_blossoming_shadows_cloth02_d"
+	"$bumpmap" 		"models/gfl2_macqiato/macqiato_blossoming_shadows_cloth02_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_macqiato/macqiato_blossoming_shadows_cloth02_mrao"
+}

@@ -1,0 +1,13 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_macqiato/macqiato_hot_spring_holidays_p3_head2_trans_d"
+	"$bumpmap" 		"models/gfl2_macqiato/macqiato_hot_spring_holidays_p3_head2_trans_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_macqiato/macqiato_hot_spring_holidays_p3_head2_trans_mrao"
+	$nocull 1
+	$alphatest 1
+	$translucent 0
+	
+	"$allowalphatocoverage" 1
+	"$halflambert" "1"
+}

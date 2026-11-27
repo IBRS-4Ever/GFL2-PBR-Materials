@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_lenna/lenna_energetic_magic_headset_d"
+	"$bumpmap" 		"models/gfl2_lenna/lenna_energetic_magic_headset_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_lenna/lenna_energetic_magic_headset_mrao"
+}

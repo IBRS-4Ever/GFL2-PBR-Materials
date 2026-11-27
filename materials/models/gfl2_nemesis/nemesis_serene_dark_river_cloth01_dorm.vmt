@@ -1,0 +1,8 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_nemesis/nemesis_serene_dark_river_dorm_d"
+	"$bumpmap" 		"models/gfl2_nemesis/nemesis_serene_dark_river_dorm_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_nemesis/nemesis_serene_dark_river_dorm_mrao"
+	$nocull 0
+}

@@ -1,0 +1,7 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_mityl/p90_d"
+	"$bumpmap" 		"models/gfl2_mityl/p90_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_mityl/p90_mrao"
+}

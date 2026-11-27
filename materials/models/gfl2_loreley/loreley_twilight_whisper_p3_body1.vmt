@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_loreley/loreley_twilight_whisper_p3_body1_d"
+	"$bumpmap" 		"models/gfl2_loreley/loreley_twilight_whisper_p2_body1_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_loreley/loreley_twilight_whisper_p3_body1_mrao"
+	$nocull 1
+	$alphatest 0
+	$translucent 0
+}

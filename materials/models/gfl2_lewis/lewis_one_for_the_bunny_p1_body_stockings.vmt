@@ -1,0 +1,10 @@
+"PBR"
+{
+	"$basetexture" 	"models/gfl2_lewis/lewis_one_for_the_bunny_p1_body_stockings_d"
+	"$bumpmap" 		"models/gfl2_lewis/lewis_one_for_the_bunny_p1_body_stockings_n"
+	$model 1
+	"$mraotexture" 	"models/gfl2_lewis/lewis_one_for_the_bunny_p1_body_stockings_mrao"
+	$nocull 0
+	$alphatest 1
+	$translucent 0
+}
